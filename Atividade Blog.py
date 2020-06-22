@@ -93,6 +93,6 @@ elif IMC > 40:
 #
 # Comparando seu código com os enviados pelos outros colegas, acha que seu código poderia melhorar sob quais aspectos?
 #
-#
+#Criando
 #
 # Crie uma nova entrada no blog e compartilhe os algoritmos desenvolvidos, enviando o código-fonte.
